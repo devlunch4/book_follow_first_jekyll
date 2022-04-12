@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Marathon"
         desc: "Running."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-folder-open #find more at https://fontawesome.com/icons
       - title: "Swim"
         desc: "Swimming."
         icon: fas fa-laptop
@@ -35,7 +35,7 @@ en: &DEFAULT_EN
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "레시피 닫기"
 
   about:
     title: "About Us"

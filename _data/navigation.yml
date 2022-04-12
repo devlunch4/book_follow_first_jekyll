@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   nav:
     - title: "Life is Life"
       section: services
-    - title: "Portfolio"
+    - title: "devlunch4"
       section: portfolio
     - title: "About"
       section: about
