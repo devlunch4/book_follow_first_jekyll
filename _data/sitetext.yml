@@ -39,8 +39,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "Devlunch4's story"
+    body: "devlunch4를 알고 싶다면 인터넷 세계를 여행하며 찾아주세요!."
     section: about
 
   contact:
